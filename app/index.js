@@ -2,10 +2,10 @@
 var util = require('util');
 var path = require('path');
 var spawn = require('child_process').spawn;
-var yeoman = require('yeoman-generator');
+var generators = require('yeoman-generator');
 
 var BonesGenerator = module.exports = function BonesGenerator(args, options, config) {
-	yeoman.generators.Base.apply(this, arguments);
+	generators.Base.apply(this, arguments);
 
 	// setup the test-framework property, Gruntfile template will need this
 	//this.testFramework = 'mocha';
@@ -20,16 +20,17 @@ var BonesGenerator = module.exports = function BonesGenerator(args, options, con
 		});
 	});
 
-	this.pkg = JSON.parse(this.readFileAsString(path.join(__dirname, '../package.json')));
+	// this.pkg = JSON.parse(this.readFileAsString(path.join(__dirname, '../package.json')));
+	this.pkg = JSON.parse(require('html-wiring').readFileAsString(path.join(__dirname, '../package.json')));
 };
 
-util.inherits(BonesGenerator, yeoman.generators.Base);
+util.inherits(BonesGenerator, generators.Base);
 
 BonesGenerator.prototype.askFor = function askFor() {
 	var cb = this.async();
 
 	// have Yeoman greet the user.
-	console.log(this.yeoman);
+	console.log(this.generators);
 	console.log('This generator scaffolds out a basic web project. \n\nIt\'s based on generator-webapp, but simplified and with some other useful stuff added in, such as Assemble for building static HTML files from modular templates and data.');
 
 	var prompts = [{
