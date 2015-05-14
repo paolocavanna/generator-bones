@@ -1,3 +1,5 @@
 node_modules/
 temp/
 npm-debug.log
+generator-bones.sublime-project
+generator-bones.sublime-workspace
