@@ -11,7 +11,7 @@ It's based on [generator-bones](https://github.com/matt-bailey/generator-bones) 
 - Make sure you have [yo](https://github.com/yeoman/yo) installed:
     `npm install -g yo`
 - Install the generator globally: `npm install -g generator-bones-bleached`
-- Run: `yo bones`
+- Run: `yo bones-bleached`
 - Run: `grunt`
 
 <!-- This is what your project will look like once you've run `yo bones` and `grunt`: -->
