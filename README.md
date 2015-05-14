@@ -1,10 +1,10 @@
-# generator-bones
+# generator-bleached-bones
 
-[![Build Status](https://travis-ci.org/matt-bailey/generator-bones.png)](https://travis-ci.org/matt-bailey/generator-bones)
+<!-- [![Build Status](https://travis-ci.org/matt-bailey/generator-bones.png)](https://travis-ci.org/matt-bailey/generator-bones) -->
 
 [Yeoman](http://yeoman.io/) generator for scaffolding out a basic web project.
 
-It's based on [generator-webapp](https://github.com/yeoman/generator-webapp), but somewhat simplified and with some other useful stuff added in - [Grunticon](https://github.com/filamentgroup/grunticon) for all your SVG needs, and [Assemble](https://github.com/assemble/assemble) for building static HTML files from modular templates and data.
+It's based on [generator-bones](https://github.com/matt-bailey/generator-bones) made by [@_mattbailey](http://twitter.com/_mattbailey), but even more simplified (no Mocha, no Grunticon).
 
 ## Getting started
 
@@ -16,11 +16,8 @@ It's based on [generator-webapp](https://github.com/yeoman/generator-webapp), bu
 
 This is what your project will look like once you've run `yo bones` and `grunt`:
 
-![Bones - Scaffolding](http://db.tt/tjtgPPxH)
+<!-- ![Bones - Scaffolding](http://db.tt/tjtgPPxH) -->
 
 ## License
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
 
-## Made by...
-
-[@_mattbailey](http://twitter.com/_mattbailey) at [GPMD](http://www.gpmd.co.uk/).
