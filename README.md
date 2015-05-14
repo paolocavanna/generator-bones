@@ -1,4 +1,4 @@
-# generator-bleached-bones
+# generator-bones-bleached
 
 <!-- [![Build Status](https://travis-ci.org/matt-bailey/generator-bones.png)](https://travis-ci.org/matt-bailey/generator-bones) -->
 
@@ -10,11 +10,11 @@ It's based on [generator-bones](https://github.com/matt-bailey/generator-bones) 
 
 - Make sure you have [yo](https://github.com/yeoman/yo) installed:
     `npm install -g yo`
-- Install the generator: `npm install -g generator-bones`
+- Install the generator globally: `npm install -g generator-bones-bleached`
 - Run: `yo bones`
 - Run: `grunt`
 
-This is what your project will look like once you've run `yo bones` and `grunt`:
+<!-- This is what your project will look like once you've run `yo bones` and `grunt`: -->
 
 <!-- ![Bones - Scaffolding](http://db.tt/tjtgPPxH) -->
 
