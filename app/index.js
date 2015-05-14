@@ -62,9 +62,9 @@ BonesGenerator.prototype.bower = function bower() {
 	this.copy('_bower.json', 'bower.json');
 };
 
-BonesGenerator.prototype.jshint = function jshint() {
+/*BonesGenerator.prototype.jshint = function jshint() {
 	this.copy('jshintrc', '.jshintrc');
-};
+};*/
 
 BonesGenerator.prototype.editorConfig = function editorConfig() {
 	this.copy('editorconfig', '.editorconfig');
