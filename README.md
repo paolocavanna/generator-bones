@@ -4,7 +4,8 @@
 
 [Yeoman](http://yeoman.io/) generator for scaffolding out a basic web project.
 
-It's based on [generator-bones](https://github.com/matt-bailey/generator-bones) made by [@_mattbailey](http://twitter.com/_mattbailey), but even more simplified (no Mocha, no Grunticon).
+It's based on [generator-bones](https://github.com/matt-bailey/generator-bones) made by [@_mattbailey](http://twitter.com/_mattbailey), but integrated with [inuit.css](https://github.com/inuitcss/getting-started) as CSS framework. I've also dropped Mocha and Grunticon, for the moment.
+A note for inuit: the modules you found in this distribution are the modules I use the most, not all the availables one. Also, the custom .scss files are highly optionated on my average project needs, so feel free to drop them or modify them as needed.
 
 ## Getting started
 
@@ -20,4 +21,3 @@ It's based on [generator-bones](https://github.com/matt-bailey/generator-bones) 
 
 ## License
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
-

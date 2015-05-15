@@ -1,0 +1,11 @@
+/*------------------------------------*\
+    $BOX
+\*------------------------------------*/
+
+.box { padding: $inuit-base-spacing-unit }
+.box--highlighted, .box--dark, [class*="box--branded"] { color: $brand-light-color }
+.box--highlighted { }
+.box--light { background-color: $brand-light-color }
+.box--branded { background-color: $brand-color }
+.box--branded--secondary { background-color: $brand-tertiary-color }
+.box--branded--tertiary { background-color: $brand-quarter-color }

@@ -1,0 +1,50 @@
+/*------------------------------------*\
+	$GENERIC
+\*------------------------------------*/
+
+@include fontFace('fontName','path/to/font', $weight: bold);
+@include fontFace('fontName','path/to/font');
+
+
+*::selection { @include selection }
+*::-moz-selection { @include selection }
+
+html { font-family: $brand-face; background: $main-bg-color; overflow-y: visible }
+
+a { color: inherit; text-decoration: none;
+	@include vendor(transition, all .3s);
+	&:link { word-wrap: break-word }
+}
+[class*="js-"]:focus { outline: 0 none }
+
+iframe, object, video { display: block; width: 100% }
+
+button { -webkit-appearance: none }
+
+main, .main-content { position: relative }
+
+.hidden { display: none !important }
+
+/*------------------------------------*\
+	$PRINT STYLES
+\*------------------------------------*/
+@media print {
+	@page { margin: 0.5cm }
+	* { background-color: transparent !important; color: black !important; box-shadow: none !important; text-shadow: none !important; filter: none !important; -ms-filter: none !important }
+	body { font: normal 10pt/1.4 sans-serif; word-spacing: 1.1pt; letter-spacing: 0.2pt; color: #000; width: 100%; margin: 0; padding: 0 }
+	h1{ font-size: 15pt }
+	h2{ font-size: 13pt }
+	h3{ font-size: 12pt }
+	h4, h5, h6{ font-size: 11pt }
+	blockquote { margin: 1.3em; padding: 1em; font-size: 10pt }
+	img { float: left; margin: 1em 1.5em 1.5em 0 }
+	a img { border: none }
+	img { float: none !important; display: inline !important }
+	a:link, a:visited { font-weight: 700; text-decoration: underline; color: #333 }
+	a:link[href^="http://"]:after, a[href^="http://"]:visited:after { content: " (" attr(href) ") "; font-size: 90% }
+	a[href^="javascript:"]:after, a[href^="#"]:after { content: "" }
+	a[href^="http://"] {color: #000 }
+	p, h2, h3 { orphans: 3; widows: 3 }
+	table { margin: 0; text-align: left }
+	thead { display: table-header-group }
+}

@@ -78,8 +78,9 @@ BonesGenerator.prototype.scaffolding = function scaffolding() {
 	this.mkdir('src/images');
 	this.mkdir('src/js');
 	this.mkdir('src/css');
-	this.mkdir('src/css/modules');
-	this.mkdir('src/css/partials');
+	this.mkdir('src/css/ui');
+	this.mkdir('src/css/utils');
+	this.mkdir('src/css/ui/partials');
 	this.mkdir('src/templates');
 	this.mkdir('src/templates/layouts');
 	this.mkdir('src/templates/pages');
@@ -92,10 +93,34 @@ BonesGenerator.prototype.scaffolding = function scaffolding() {
 	this.copy('index.hbs', 'src/templates/pages/index.hbs');
 
 	this.copy('styles.scss', 'src/css/styles.scss');
+	this.copy('_settings.global_vars.scss', 'src/css/_settings.global_vars.scss');
+	this.copy('_settings.inuit_setup.scss', 'src/css/_settings.inuit_setup.scss');
+	this.copy('_tools.mixins.scss', 'src/css/utils/_tools.mixins.scss');
+	this.copy('_base.images.scss', 'src/css/ui/_base.images.scss');
+	this.copy('_base.shared.scss', 'src/css/ui/_base.shared.scss');
+	this.copy('_settings.grid_setup.scss', 'src/css/ui/_settings.grid_setup.scss');
+	this.copy('_settings.mediaqueries.scss', 'src/css/ui/_settings.mediaqueries.scss');
+	this.copy('_settings.no_touch.scss', 'src/css/ui/_settings.no_touch.scss');
+	this.copy('_settings.page_body.scss', 'src/css/ui/_settings.page_body.scss');
+	this.copy('_settings.touch.scss', 'src/css/ui/_settings.touch.scss');
+	this.copy('_settings.typography.scss', 'src/css/ui/_settings.typography.scss');
+	this.copy('_component.box.scss', 'src/css/ui/partials/_component.box.scss');
+	this.copy('_component.buttons.scss', 'src/css/ui/partials/_component.buttons.scss');
+	this.copy('_component.form.scss', 'src/css/ui/partials/_component.form.scss');
+	this.copy('_component.layer.scss', 'src/css/ui/partials/_component.layer.scss');
+	this.copy('_component.loading.scss', 'src/css/ui/partials/_component.loading.scss');
+	this.copy('_component.social_sharing.scss', 'src/css/ui/partials/_component.social_sharing.scss');
+	this.copy('_component.tabs.scss', 'src/css/ui/partials/_component.tabs.scss');
+	this.copy('_trumps.brand.scss', 'src/css/ui/partials/_trumps.brand.scss');
+	this.copy('_trumps.headings.scss', 'src/css/ui/partials/_trumps.headings.scss');
+	this.copy('_trumps.icons.scss', 'src/css/ui/partials/_trumps.icons.scss');
+	this.copy('_trumps.list.scss', 'src/css/ui/partials/_trumps.list.scss');
+	this.copy('_trumps.tables.scss', 'src/css/ui/partials/_trumps.tables.scss');
 
 	this.copy('main.js', 'src/js/main.js');
 	this.copy('utils.js', 'src/js/utils.js');
 	this.copy('plugins.js', 'src/js/libs/plugins.js');
+	this.copy('modernizr.js', 'src/js/libs/modernizr.js');
 
 	// this.write('src/index.html', this.indexFile);
 };

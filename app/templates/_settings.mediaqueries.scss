@@ -1,0 +1,65 @@
+/*------------------------------------*\
+	$MEDIA QUERIES
+\*------------------------------------*/
+
+/* === IE snap mode === */
+@media screen and (max-width: palm) {
+	@-ms-viewport{
+		width: device-width;
+	}
+}
+
+/* === PORTABLE DEVICES === */
+@include media-query(portable){
+
+	body:after { content: "mq portable"; display: none }
+
+}
+
+/* === SMARTPHONE === */
+@include media-query(palm) {
+
+	body:after { content: "mq palm"; display: none }
+
+}
+
+/* === TABLET - PORTRAIT === */
+@include media-query(lap) {
+
+	body:after { content: "mq lap"; display: none }
+
+}
+
+
+/* === iPad landscape specific mq to fix `vh` bug === */
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:landscape){
+
+	body:after { content: "(device-width: 768px) and (device-height: 1024px) and (orientation:landscape)"; display: none }
+
+}
+
+/* === VERTICAL MQ: TABLET IN PORTRAIT === */
+@media screen and (min-height: 700px) and ( orientation: portrait ) {
+
+	body:after { content: "mq min-height: 700px and orientation: portrait"; display: none }
+
+}
+
+/* === VERTICAL MQ === */
+@media screen and (max-height: 700px) and (min-width: 1024px) {
+
+	body:after { content: "mq max-height: 700px and min-width: 1024px"; display: none }
+
+}
+
+/* === HI-RES === */
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+	only screen and (-o-min-device-pixel-ratio: 3/2),
+	only screen and (min--moz-device-pixel-ratio: 1.5),
+	only screen and (min-device-pixel-ratio: 1.5) {
+
+	body:after { content: "mq min-device-pixel-ratio: 1.5"; display: none }
+
+	h1, h2, h3, h4, h5, h6, p, li, a { text-rendering: optimizeLegibility }
+
+}
