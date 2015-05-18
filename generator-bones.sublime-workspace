@@ -1,0 +1,1531 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"tmp",
+				"tmpVal"
+			],
+			[
+				"tem",
+				"tempVal"
+			],
+			[
+				"pre",
+				"preserveFormat"
+			],
+			[
+				"j",
+				"join"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"th",
+				"thousand"
+			],
+			[
+				"se",
+				"settings"
+			],
+			[
+				"trans",
+				"translateX"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"text-",
+				"text-top"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"fomr",
+				"format"
+			],
+			[
+				"V",
+				"VEHICLE_IMG_URL"
+			],
+			[
+				"ori",
+				"originalBrand"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"reg",
+				"_registerData"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"valu",
+				"value"
+			],
+			[
+				"ve",
+				"vehicle__img"
+			],
+			[
+				"c",
+				"clicks"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"pos",
+				"pos-s	position: static;"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"inco",
+				"incomeAvailable"
+			],
+			[
+				"incom",
+				"income"
+			],
+			[
+				"income",
+				"incomeAvailable"
+			],
+			[
+				"other",
+				"otherBrand"
+			],
+			[
+				"vers",
+				"versionData"
+			],
+			[
+				"sele",
+				"selectVersion"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"tpl",
+				"tplVehicles"
+			],
+			[
+				"ex",
+				"exchange"
+			],
+			[
+				"rend",
+				"rendered"
+			],
+			[
+				"ln",
+				"length"
+			],
+			[
+				"CO",
+				"CONFIG"
+			],
+			[
+				"_a",
+				"_ajaxSuccess"
+			],
+			[
+				"text",
+				"textStatus"
+			],
+			[
+				"F",
+				"FIND_STEP_1"
+			],
+			[
+				"_qu",
+				"_query"
+			],
+			[
+				"g",
+				"getWsURI"
+			],
+			[
+				"_que",
+				"_queryData"
+			],
+			[
+				"get",
+				"getQueryParams"
+			],
+			[
+				"_get",
+				"_getQueryParams"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"re",
+				"required	@required"
+			],
+			[
+				"result",
+				"resultWrapper"
+			],
+			[
+				"ins",
+				"instanceof"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ge",
+				"generic"
+			],
+			[
+				"_re",
+				"_resetTrigger"
+			],
+			[
+				"is",
+				"isAutomated"
+			],
+			[
+				"br",
+				"brandSelect"
+			],
+			[
+				"temp",
+				"templateName"
+			],
+			[
+				"bran",
+				"brand"
+			],
+			[
+				"bra",
+				"brand"
+			],
+			[
+				"_",
+				"_UTILS_"
+			],
+			[
+				"ty",
+				"typeOfPayment"
+			],
+			[
+				"opt",
+				"option"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"tr",
+				"translateY"
+			],
+			[
+				"set",
+				"setStatus"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"Cac",
+				"CacheManager"
+			],
+			[
+				"init",
+				"initApp"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"brn",
+				"brand"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"tran",
+				"translate"
+			],
+			[
+				"res",
+				"resultsWrapper"
+			],
+			[
+				"cle",
+				"clearPrice"
+			],
+			[
+				"arg",
+				"arguments"
+			],
+			[
+				"m",
+				"max"
+			],
+			[
+				"han",
+				"_handleSliderUI"
+			],
+			[
+				"tra",
+				"track"
+			],
+			[
+				"_rende",
+				"_renderTemplates"
+			],
+			[
+				"root",
+				"rootElement"
+			],
+			[
+				"Pa",
+				"PageRender"
+			],
+			[
+				"ch",
+				"checkRadioInput"
+			],
+			[
+				"produc",
+				"products"
+			],
+			[
+				"req",
+				"reqData"
+			],
+			[
+				"ed",
+				"editorSelect"
+			],
+			[
+				"t",
+				"todo	@todo"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"_upda",
+				"_updateDataFromSlider"
+			],
+			[
+				"range",
+				"range-slider"
+			],
+			[
+				"rag",
+				"range-slider"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"btn",
+				"btnShowInfo"
+			],
+			[
+				"expe",
+				"expense"
+			],
+			[
+				"exp",
+				"expense"
+			],
+			[
+				"jq",
+				"jqXHR"
+			],
+			[
+				"value",
+				"values"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"quer",
+				"queries"
+			],
+			[
+				"que",
+				"queries"
+			],
+			[
+				"ste",
+				"steps"
+			],
+			[
+				"data",
+				"dataset"
+			],
+			[
+				"roo",
+				"rootElement"
+			],
+			[
+				"str",
+				"strict"
+			],
+			[
+				"ro",
+				"rootElement"
+			],
+			[
+				"H",
+				"HtmlTemplates"
+			],
+			[
+				"templ",
+				"templateName"
+			],
+			[
+				"js",
+				"js-calc-rate"
+			],
+			[
+				"app",
+				"apply"
+			],
+			[
+				"Qu",
+				"QueryData"
+			],
+			[
+				"L",
+				"LEASING"
+			],
+			[
+				"QU",
+				"QueryData"
+			],
+			[
+				"Q",
+				"QueryData"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"make",
+				"makeArray"
+			],
+			[
+				"nm",
+				"namespace	@namespace"
+			],
+			[
+				"label",
+				"labels"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"font",
+				"font"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"sel",
+				"select"
+			],
+			[
+				"acc",
+				"accounting"
+			],
+			[
+				"ver",
+				"version"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.js",
+			"settings":
+			{
+				"buffer_size": 4477,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "var BonesGenerator = module.exports = function BonesGenerator(args, options, config) {\n	generators.Base.apply(this, arguments);\n\n	// setup the test-framework property, Gruntfile template will need this\n	//this.testFramework = 'mocha';\n	// resolved to mocha by default\n	//this.hookFor('mocha', { as: 'app' });\n\n	// this.indexFile = this.readFileAsString(path.join(this.sourceRoot(), 'index.html'));\n\n	this.on('end', function() {\n		this.installDependencies({\n			skipInstall: options['skip-install']\n		});\n	});\n\n	// this.pkg = JSON.parse(this.readFileAsString(path.join(__dirname, '../package.json')));\n	this.pkg = JSON.parse(wiring.readFileAsString(path.join(__dirname, '../package.json')));\n};\n\nutil.inherits(BonesGenerator, generators.Base);\n\nBonesGenerator.prototype.askFor = function askFor() {\n	var cb = this.async();\n\n	// have Yeoman greet the user.\n	console.log(this.generators);\n	console.log('This generator scaffolds out a basic web project. \\n\\nIt\\'s based on generator-webapp, but simplified and with some other useful stuff added in, such as Assemble for building static HTML files from modular templates and data.');\n\n	var prompts = [{\n		name: 'projectName',\n		message: 'Give your project a name:'\n	}];\n\n	this.prompt(prompts, function(props) {\n		this.projectName = props.projectName;\n\n		cb();\n	}.bind(this));\n};\n\nBonesGenerator.prototype.gruntfile = function gruntfile() {\n	this.template('Gruntfile.js');\n};\n\nBonesGenerator.prototype.packageJSON = function packageJSON() {\n	this.template('_package.json', 'package.json');\n};\n\nBonesGenerator.prototype.git = function git() {\n	this.copy('gitignore', '.gitignore');\n	this.copy('gitattributes', '.gitattributes');\n};\n\nBonesGenerator.prototype.bower = function bower() {\n	this.copy('bowerrc', '.bowerrc');\n	this.copy('_bower.json', 'bower.json');\n};\n\n/*BonesGenerator.prototype.jshint = function jshint() {\n	this.copy('jshintrc', '.jshintrc');\n};*/\n\nBonesGenerator.prototype.editorConfig = function editorConfig() {\n	this.copy('editorconfig', '.editorconfig');\n};\n\n// BonesGenerator.prototype.writeIndex = function writeIndex() {};\n\nBonesGenerator.prototype.scaffolding = function scaffolding() {\n	this.mkdir('src');\n	this.mkdir('src/images');\n	this.mkdir('src/js');\n	this.mkdir('src/css');\n	this.mkdir('src/css/ui');\n	this.mkdir('src/css/utils');\n	this.mkdir('src/css/ui/partials');\n	this.mkdir('src/templates');\n	this.mkdir('src/templates/layouts');\n	this.mkdir('src/templates/pages');\n	this.mkdir('src/templates/partials');\n\n	this.copy('_!-edit-template-files-not-html', 'src/_!-edit-template-files-not-html');\n\n	this.copy('default.hbs', 'src/templates/layouts/default.hbs');\n	this.copy('header.hbs', 'src/templates/partials/header.hbs');\n	this.copy('index.hbs', 'src/templates/pages/index.hbs');\n\n	this.copy('styles.scss', 'src/css/styles.scss');\n	this.copy('_settings.global_vars.scss', 'src/css/_settings.global_vars.scss');\n	this.copy('_settings.inuit_setup.scss', 'src/css/_settings.inuit_setup.scss');\n	this.copy('_tools.mixins.scss', 'src/css/utils/_tools.mixins.scss');\n	this.copy('_base.images.scss', 'src/css/ui/_base.images.scss');\n	this.copy('_base.shared.scss', 'src/css/ui/_base.shared.scss');\n	this.copy('_settings.grid_setup.scss', 'src/css/ui/_settings.grid_setup.scss');\n	this.copy('_settings.mediaqueries.scss', 'src/css/ui/_settings.mediaqueries.scss');\n	this.copy('_settings.no_touch.scss', 'src/css/ui/_settings.no_touch.scss');\n	this.copy('_settings.page_body.scss', 'src/css/ui/_settings.page_body.scss');\n	this.copy('_settings.touch.scss', 'src/css/ui/_settings.touch.scss');\n	this.copy('_settings.typography.scss', 'src/css/ui/_settings.typography.scss');\n	this.copy('_component.box.scss', 'src/css/ui/partials/_component.box.scss');\n	this.copy('_component.buttons.scss', 'src/css/ui/partials/_component.buttons.scss');\n	this.copy('_component.form.scss', 'src/css/ui/partials/_component.form.scss');\n	this.copy('_component.layer.scss', 'src/css/ui/partials/_component.layer.scss');\n	this.copy('_component.loading.scss', 'src/css/ui/partials/_component.loading.scss');\n	this.copy('_component.social_sharing.scss', 'src/css/ui/partials/_component.social_sharing.scss');\n	this.copy('_component.tabs.scss', 'src/css/ui/partials/_component.tabs.scss');\n	this.copy('_trumps.brand.scss', 'src/css/ui/partials/_trumps.brand.scss');\n	this.copy('_trumps.headings.scss', 'src/css/ui/partials/_trumps.headings.scss');\n	this.copy('_trumps.icons.scss', 'src/css/ui/partials/_trumps.icons.scss');\n	this.copy('_trumps.list.scss', 'src/css/ui/partials/_trumps.list.scss');\n	this.copy('_trumps.tables.scss', 'src/css/ui/partials/_trumps.tables.scss');\n\n	this.copy('main.js', 'src/js/main.js');\n	this.copy('utils.js', 'src/js/utils.js');\n	this.copy('plugins.js', 'src/js/libs/plugins.js');\n	this.copy('modernizr.js', 'src/js/libs/modernizr.js');\n\n	// this.write('src/index.html', this.indexFile);\n};\n",
+			"settings":
+			{
+				"buffer_size": 4866,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 690,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1226,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nMarkdown Preview:\n----------------\n\n  Sublime Text 2/3 Markdown Preview\n  =================================\n  \n  Preview and build your markdown files quickly in your web browser from sublime text 2/3. \n  \n  You can use builtin [python-markdown][10] parser or use the [github markdown API][5] for the conversion.\n  \n  **NOTE:** If you choose the GitHub API for conversion (set parser: github in your settings), your code will be sent through https to github for live conversion. You'll have [Github flavored markdown][6], syntax highlighting and EMOJI support for free :heart: :octocat: :gift:. If you make more than 60 calls a day, be sure to set your GitHub API key in the settings :). You can also get most of this in the default Markdown parser with by enabling certain extensions; see \"[Parsing Github Flavored Markdown](#parsing-github-flavored-markdown-)\"\" below for more information.\n  \n  **LINUX users:** If you want to use GitHub API for conversion, you'll need to have a custom Python install that includes python-ssl as its not built in the Sublime Text 2 Linux package. see [@dusteye comment][8]. If you use a custom window manager, also be sure to set a `BROWSER` environment variable. see [@PPvG comments][9]\n  \n  ## Features :\n  \n   - Markdown preview using the [Python-markdown][10] or the Github API just choose select the build commands.\n   - Syntax highlighting via Pygments. See \"[Configuring Pygments](#configuring-pygments)\" for more info.\n   - Build markdown file using Sublime Text build system. The build parser are config via the `\"parser\"` config.\n   - Browser preview auto reload on save if you have the [ST2 LiveReload plugin][7] installed.\n   - Builtin parser : supports `abbr`, `attr_list`, `def_list`, `fenced_code`, `footnotes`, `tables`, `smart_strong`, `smarty`,  `wikilinks`, `meta`, `sane_lists`, `codehilite`, `nl2br`, and `toc` markdown extensions.\n   - CSS search path for local and build-in CSS files (always enabled) and/or CSS overriding if you need\n   - YAML support thanks to @tommi\n   - Clipboard selection and copy to clipboard thanks to @hexatrope\n   - MathJax support : \\\\\\\\(\\frac{\\pi}{2}\\\\\\\\) thanks to @bps10\n   - HTML template customisation thanks to @hozaka\n   - Embed images as base64 (see [settings][settings] file for more info)\n   - Strip out multimarkdown critic marks (see [settings][settings] file for more info)\n   - 3rd party extensions for the Python Markdown parser:\n  \n      | Extension | Documentation |\n      |-----------|---------------|\n      | magiclink | Find and convert HTML links and email address to links ([MagicLink Documentation](http://facelessuser.github.io/PyMdown/Extensions/MagicLink.html)). |\n      | delete | Surround inline text with `~~crossed out~~` to get del tags ~~crossed out~~. |\n      | insert | Surround inline text with `^^underlined^^` to get ins tags <ins>underlined</ins>. |\n      | tasklist | Github Flavored Markdown tasklists ([Tasklist Documentation](http://facelessuser.github.io/PyMdown/Extensions/Tasklist.html)). |\n      | githubemoji | Support for Github Flavored Markdown emojis ([GithubEmoji Documentation](http://facelessuser.github.io/PyMdown/Extensions/GithubEmoji.html)). |\n      | headeranchor | Github Flavored Markdown style header anchors ([HeaderAnchor Documentation](http://facelessuser.github.io/PyMdown/Extensions/HeaderAnchor.html)). |\n      | github | A convenience extension to add: `magiclink`, `delete`, `tasklist`, `githubemoji`, `headeranchor`, `superfences`, and `nl2br` to parse and display Markdown in a github-ish way.  It is recommed to pair `github` with `extra` and `codehilite` (with language guessing off) to parse close to github's way.  Be aware of what extensions `github` loads, because you should not load extensions more than once. |\n      | progressbar | Create progress bars ([ProgressBar Documentation](http://facelessuser.github.io/PyMdown/Extensions/ProgressBar.html)). |\n      | superfences | Allow fenced blocks to be nested under lists, blockquotes, etc. and add special UML diagram blocks ([SuperFences Documentation](http://facelessuser.github.io/PyMdown/Extensions/SuperFences.html)). |\n  \n  ## Installation :\n  \n  ### Using [Package Control][3] (*Recommended*)\n  \n  For all Sublime Text 2/3 users we recommend install via [Package Control][3].\n  \n  1. [Install][11] Package Control if you haven't yet.\n  2. Use `cmd+shift+P` then `Package Control: Install Package`\n  3. Look for `Markdown Preview` and install it.\n  \n  ### Manual Install\n  \n  1. Click the `Preferences > Browse Packages…` menu\n  2. Browse up a folder and then into the `Installed Packages/` folder\n  3. Download [zip package][12] rename it to `Markdown Preview.sublime-package` and copy it into the `Installed Packages/` directory\n  4. Restart Sublime Text\n  \n  ## Usage :\n  \n  ### To preview :\n  \n   - optionally select some of your markdown for conversion\n   - use `cmd+shift+P` then `Markdown Preview` to show the follow commands (you will be prompted to select which parser you prefer):\n  	- Markdown Preview: Preview in Browser\n  	- Markdown Preview: Export HTML in Sublime Text\n  	- Markdown Preview: Copy to Clipboard\n  	- Markdown Preview: Open Markdown Cheat sheet\n   - or bind some key in your user key binding, using a line like this one:\n     `{ \"keys\": [\"alt+m\"], \"command\": \"markdown_preview\", \"args\": {\"target\": \"browser\", \"parser\":\"markdown\"} },` for a specific parser and target or `{ \"keys\": [\"alt+m\"], \"command\": \"markdown_preview_select\", \"args\": {\"target\": \"browser\"} },` to bring up the quick panel to select enabled parsers for a given target.\n   - once converted a first time, the output HTML will be updated on each file save (with LiveReload plugin)\n  \n  ### To build :\n  \n   - Just use `Ctrl+B` (Windows/Linux) or `cmd+B` (Mac) to build current file.\n  \n  ### To config :\n  \n  Using Sublime Text menu: `Preferences`->`Package Settings`->`Markdown Preview`\n  \n  - `Settings - User` is where you change your settings for Markdown Preview.\n  - `Settings - Default` is a good reference with detailed descriptions for each setting.\n  \n  ### Configuring Pygments\n  If you add the codehilite extension manually in the enabled extensions, you can override some of the default settings.\n  \n  * Turn language guessing *on* or *off* (*on* will highlight fenced blocks even if you don't specify a language)  `codehilite(guess_lang=False)` (True|False).\n  * Show line numbers: `codehilite(linenums=True)` (True|False).\n  * Change the higlight theme: `codehilite(pygments_style=emacs)`.\n  * Inline the CSS: `codehilite(noclasses=True)` (True|False).\n  * Use multiple: `codehilite(linenums=True, pygments_style-emacs)`.\n  \n  See [codehilte page](https://pythonhosted.org/Markdown/extensions/code_hilite.html) for more info.\n  \n  ### Meta Data Support\n  When the `meta` extension is enabled (https://pythonhosted.org/Markdown/extensions/meta_data.html), the results will be written to the HTML head in the form `<meta name=\"key\" content=\"value1,value2\">`.  `title` is the one exception, and its content will be written to the title tag in the HTML head.\n  \n  ### YAML Frontmatter Support\n  YAML frontmatter can be stripped out and read when `strip_yaml_front_matter` is set to  `true` in the settings file.  In general the, the fronmatter is handled the same as [meta data](#meta-data-support), but if both exist in a file, the YAML keys will override the `meta` extension keys.  There are a few special keys names that won't be handled as html meta data.\n  \n  #### Special YAML Key Names\n  Yaml frontmatter has a few special key names that are used that will not be handled as meta data:\n  \n  - **basepath**: An absolute path to configure the relative paths for images etc. (for when the markdown is supposed to reference images in a different location.)\n  - **references**: Can take a file path or an array of file paths for separate markdown files containing references, footnotes, etc.  Can be an absolute path or relative path.  Relative paths first use the source file's directory, and if the file cannot be found, it will use the `basepath` setting.\n  - **destination**: This is an absolute file path or relative file path for when the markdown is saved to html via the build command or the `Save to HTML` command.  Relative paths first use the source file's directory, and if the file cannot be found, it will use the `basepath` setting.\n  - **settings**: This is a dictionary where you can override settings that are in the settings file.\n  \n  #### Example\n  ```yaml\n  ---\n      # Builtin values\n      references:\n          - references.md\n          - abbreviations.md\n          - footnotes.md\n  \n      destination: destination.html\n  \n      # Meta Data\n      title: Test Page\n      author:\n          - John Doe\n          - Jane Doe\n  \n      # Settings overrides\n      settings:\n          enabled_extensions:\n          - extra\n          - github\n          - toc\n          - headerid\n          - smarty(smart_quotes=False) # smart quotes interferes with attr_list\n          - meta\n          - wikilinks\n          - admonition\n          - codehilite(guess_lang=False,pygments_style=github)\n  ---\n  ```\n  \n  ### Parsing Github Flavored Markdown :\n  Github Flavored Mardown (GFM) is a very popular markdown.  Markdown Preview can actually handle them in a couple of ways: online and offline.\n  \n  #### Online :\n  Parsing GFM using the online method requires using the Github API as the parser.  It may also require setting `github_mode` to `gfm` to get things like tasklists to render properly.\n  \n  #### Offline :\n  By default almost all extensions are enabled to help with the github feel, but there are some tweaks needed to get the full experience.\n  \n  GFM does not auto guess language in fenced blocks, but Markdown Preview does this by default.  You can fix this in one of two ways:\n  \n  1. Disable auto language guessing in the settings file `\"guess_language\": false,`\n  2. Or if you are manually defining extensions: `\"enabled_extensions\": [\"codehilite(guess_lang=False,pygments_style=github)\"]`\n  \n  \n  As mentioned earlier, almost all extensions are enabled by default, but as a reference, the minimum extensions that should be enabled are listed below:\n  \n  ```javascript\n  	\"enabled_extensions\": [\n  		\"extra\",\n  		\"github\",\n  		\"codehilite(guess_lang=False,pygments_style=github)\"\n  	]\n  ```\n  \n  This may be further enhanced in the future.\n  \n  \n  ## Support :\n  \n  - Any bugs about Markdown Preview please feel free to report [here][issue].\n  - And you are welcome to fork and submit pullrequests.\n  \n  \n  ## License :\n  \n  The code is available at github [project][home] under [MIT licence][4].\n  \n   [home]: https://github.com/revolunet/sublimetext-markdown-preview\n   [3]: https://sublime.wbond.net/\n   [4]: http://revolunet.mit-license.org\n   [5]: http://developer.github.com/v3/markdown\n   [6]: http://github.github.com/github-flavored-markdown/\n   [7]: https://github.com/dz0ny/LiveReload-sublimetext2\n   [8]: https://github.com/revolunet/sublimetext-markdown-preview/issues/27#issuecomment-11772098\n   [9]: https://github.com/revolunet/sublimetext-markdown-preview/issues/78#issuecomment-15644727\n   [10]: https://github.com/waylan/Python-Markdown\n   [11]: https://sublime.wbond.net/installation\n   [12]: https://github.com/revolunet/sublimetext-markdown-preview/archive/master.zip\n   [issue]: https://github.com/revolunet/sublimetext-markdown-preview/issues\n   [settings]: https://github.com/revolunet/sublimetext-markdown-preview/blob/master/MarkdownPreview.sublime-settings\n  \n   ",
+			"settings":
+			{
+				"buffer_size": 11597,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "m",
+		"selected_items":
+		[
+			[
+				"m",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Short Tag"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"JSLint"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 333.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/app",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/app/templates",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/test"
+	],
+	"file_history":
+	[
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/app/templates/index.hbs",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/app/templates/default.hbs",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/app/templates/_bower.json",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/app/templates/Gruntfile.js",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/node_modules/yeoman-generator/lib/base.js",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/node_modules/yeoman-generator/lib/actions/actions.js",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/node_modules/yeoman-generator/lib/util/engines.js",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/package.json",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/node_modules/yeoman-generator/package.json",
+		"/C/Users/paocavan/Desktop/PROGETTI/test_generator_bones_bleached/node_modules/generator-bones-bleached/package.json",
+		"/C/Users/paocavan/Downloads/inuitStarter-master/inuitStarter-master/css/ui/partials/tree.txt",
+		"/C/Users/paocavan/Downloads/inuitStarter-master/inuitStarter-master/css/ui/tree.txt",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/app/templates/styles.scss",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/test/test-creation.js",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/app/templates/_package.json",
+		"/C/Users/paocavan/Desktop/PROGETTI/test_generator_bones/src/css/styles.scss",
+		"/C/Users/paocavan/Desktop/PROGETTI/test_generator/src/templates/pages/inner.hbs",
+		"/C/Users/paocavan/Desktop/PROGETTI/test_generator/Gruntfile.js",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/README.md",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/app/index.js",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/.jshintrc",
+		"/C/Users/paocavan/Desktop/PROGETTI/test_generator/bower.json",
+		"/C/Users/paocavan/Desktop/PROGETTI/test_generator/node_modules/generator-bones-bleached/package.json",
+		"/C/Users/paocavan/Desktop/PROGETTI/test_generator/node_modules/generator-bones-bleached/app/templates/Gruntfile.js",
+		"/C/Users/paocavan/Desktop/PROGETTI/test_generator/node_modules/generator-bones-bleached/app/templates/utils.js",
+		"/C/Users/paocavan/Desktop/PROGETTI/test_generator/node_modules/generator-bones-bleached/app/index.js",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/test/test-load.js",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/app/templates/bowerrc",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/app/templates/editorconfig",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/app/templates/gitattributes",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/app/templates/gitignore",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/app/templates/header.hbs",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/app/templates/jshintrc",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/app/templates/main.js",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/app/templates/patterns.hbs",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/app/templates/plugins.js",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/app/templates/test.svg",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/app/templates/travis.yml",
+		"/C/Users/paocavan/Desktop/PROGETTI/_GENERATOR_BONES/generator-bones/.gitignore",
+		"/C/Users/paocavan/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/paocavan/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/paocavan/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/paocavan/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/build/fiat.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/index.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/Gruntfile.js",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/abarth.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/alfa_romeo.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/fiat.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/fiat_professional.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/jeep.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/lancia.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/js/app/app.js",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/css/layout.css",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/config/labels.xml",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/js/app/utils.js",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/build/index.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/package.json",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/build/config.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/manifest.json",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/css/layout_jeep.css",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/manifest.json",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/config.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/css/layout_abarth.css",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/css/layout_alfa_romeo.css",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/css/layout_fiat.css",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/css/layout_fiat_professional.css",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/css/layout_lancia.css",
+		"/C/Users/paocavan/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/TROVA_AUTO/CODICE/____index.php",
+		"/C/Users/paocavan/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/paocavan/AppData/Roaming/Sublime Text 3/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+		"/C/Users/paocavan/AppData/Roaming/Sublime Text 3/Packages/User/Autoprefixer.sublime-settings",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/config/labels.xml",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/lancia.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/jeep.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/fiat_professional.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/fiat.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/alfa_romeo.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/abarth.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/js/app/libs/plugins.js",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/bower_components/fastclick/lib/fastclick.js",
+		"/C/Users/paocavan/AppData/Roaming/Sublime Text 3/Packages/User/jsconsole.sublime-snippet",
+		"/C/Users/paocavan/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/css/layout_abarth.css",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/css/layout_alfa_romeo.css",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/css/layout_fiat.css",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/css/layout_jeep.css",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/css/layout_fiat_professional.css",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/css/layout_lancia.css",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/js/app/utils.js",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/index_abarth.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/index_lancia.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/index_jeep.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/index_fiat_professional.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/index_alfa_romeo.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/index_fiat.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/font-awesome/css/font-awesome.css",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/bootstrap/css/bootstrap.min.css",
+		"/C/Users/paocavan/Downloads/f.css",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/js/app/app.js",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/js/app/app_BACKUP.js",
+		"/C/Users/paocavan/Downloads/jsInject.js",
+		"/C/Users/paocavan/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/Default (Windows).sublime-keymap",
+		"/C/Users/paocavan/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/C/Users/paocavan/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+		"/C/Users/paocavan/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
+		"/C/Users/paocavan/AppData/Roaming/Sublime Text 3/Packages/User/JSLint.sublime-settings",
+		"/C/Users/paocavan/AppData/Roaming/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/config/config.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/config/config.json",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/templates.html",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FCABANK/SAVA_90/CODICE/index.html",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/js/app/msgs/msg_en.js",
+		"/C/Users/paocavan/Downloads/f.js",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/css/fonts/fonts.css",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FCABANK/SAVA_90/CODICE/css/main.css",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/config.json",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/config.php",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/js/app/main.js",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/js/app/listbox.js",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/js/app/calculator.js",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/js/app/config.js",
+		"/C/Users/paocavan/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/paocavan/Desktop/PROGETTI/path_var.txt",
+		"/C/Users/paocavan/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FINANCIAL_CALCULATOR/CODICE/trunk/js/app/msg_en.js",
+		"/C/Users/paocavan/Desktop/PROGETTI/FCA/FCABANK/LANDING/CODICE/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"C:\\Users\\paocavan\\Desktop\\PROGETTI\\FCA\\TROVA_AUTO\\CODICE",
+			"C:\\Users\\paocavan\\Desktop\\PROGETTI\\EXTRACOMMONPLACE\\CODICE"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"generators",
+			"BonesGenerator",
+			"generators",
+			"yeoman",
+			"readFIle",
+			"test",
+			"jshint",
+			"bones",
+			"href=\"\"",
+			"http://mobile.fcabank.it/",
+			"C:\\Users\\paocavan\\Desktop\\PROGETTI\\FCA\\TROVA_AUTO\\CODICE",
+			"FCA Trova Auto",
+			"FCA Mobile calculator",
+			"result-rate-wrapper",
+			"accounting.format(incomeAvailable)",
+			"incomeAvailable",
+			"accounting.format",
+			"33",
+			"to-select--version",
+			"main-container mb",
+			"main-container container mb",
+			"type=\"number\"",
+			"result-value",
+			"$vehicles",
+			"brands",
+			"_renderCustomization",
+			"text--center",
+			"result-value",
+			"_toggleVersionDisplay",
+			"templateName",
+			"incoming",
+			"expense",
+			"instanceof",
+			"pattern=\"[0-9]*\" ",
+			"<input",
+			"to-select--version",
+			"<input",
+			"input",
+			"inpu",
+			"service__desc",
+			"class=\"label\"",
+			"to-wrapper-icon-text",
+			"FontAwesome",
+			"../font-awesome/",
+			"CacheManager",
+			"_unsubscribeListener",
+			"selectVersion",
+			"selectModel",
+			"selectBrand",
+			"selectVersion",
+			"selectModel",
+			"selectBrand",
+			"service__type",
+			"btnShowInfo",
+			"js-show-info",
+			"loan",
+			"vehiclePrice",
+			"ajaxChain",
+			"$.makeArray",
+			"_callsToCalculateRates",
+			"lblNoDataLE",
+			"btn-wrapper",
+			".header",
+			"col-xs-7",
+			"col-xs-5",
+			"to-it-icon",
+			"_toggleEditMode",
+			"total",
+			"duration",
+			"duratino",
+			"$productEmpty",
+			"rate-condition-recap",
+			"rate-amount-total",
+			"rate-amount-recap",
+			"rate-recap",
+			"total",
+			"GET_BRAND_TEST",
+			"GET_BRAND",
+			"ajaxChain:",
+			"service__type",
+			"select--duration",
+			"additionalServices",
+			"rid",
+			"$productWrapper",
+			"NOPROD",
+			"_makeChainedCalls",
+			"FastClick",
+			"RenderView",
+			"_executeCalcRate",
+			"Canone mensile beni",
+			"txtResult",
+			"service",
+			"js-show-info",
+			"baloonPayment",
+			"(+IVA) per",
+			"Servizi e costi",
+			"Clicca qui",
+			"HP",
+			"Servizi e costi",
+			"Canone mensile",
+			"Scegli l'anticipo",
+			"sld4LE",
+			"Canoni anticipati",
+			"Valore residuo",
+			"Clicca qui per modificare la rata",
+			"TAEG",
+			"checked",
+			"anticipatedRents",
+			"aside",
+			"includedServices",
+			"_resetDOM",
+			"queryChain",
+			"Servizi e costi aggiuntivi",
+			"dataset",
+			"_resetDOM",
+			"btn-wrapper",
+			"Calcola la rata",
+			"output-wrapper",
+			"1.250,00",
+			"class=\"output\"",
+			"slider",
+			"editor-wrapper",
+			"_executeInit",
+			"_updateValues",
+			"dotted",
+			"latoregular",
+			"brand-heading",
+			"marketing"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"yeoman",
+			"href=\"http://www.fcabank.it/cerca-il-concessionario\"",
+			"http://www.fcabank.it/",
+			"C:\\Users\\paocavan\\Desktop\\PROGETTI\\FCA\\TROVA_AUTO\\CODICE\nhttp://www.fcabank.it/",
+			"C:\\Users\\paocavan\\Desktop\\PROGETTI\\FCA\\TROVA_AUTO\\CODICE\n",
+			"C:\\Users\\paocavan\\Desktop\\PROGETTI\\FCA\\TROVA_AUTO\\CODICE\nFCA Bank | Mobile Trova l'auto",
+			"C:\\Users\\paocavan\\Desktop\\PROGETTI\\FCA\\TROVA_AUTO\\CODICE\nincomeAvailable",
+			"main-container",
+			"main-container container",
+			"type=\"text\"",
+			"$vehicleResultWrapper",
+			"_upDateVersionData",
+			"template",
+			"income",
+			"outcome",
+			"pattern=\"\\d{1,2}[\\,.]{1}\\d{1,2}\"",
+			"info__desc",
+			"class=\"form__label\"",
+			"",
+			"_removeListener",
+			"version",
+			"model",
+			"brand",
+			"version",
+			"model",
+			"brand",
+			"xhr",
+			"_callToCalculateRates",
+			"_enterEditMode",
+			"_callsToCalculateRates",
+			"range-output-wrapper",
+			"",
+			"class=\"range-output\"",
+			"_executeInitSelect",
+			"Lato",
+			"brand-box",
+			"",
+			"modules",
+			"FCA",
+			"Watch the video",
+			"Watch the video ",
+			"mb",
+			"img/",
+			"six-tenths",
+			"Guarda il video",
+			"/",
+			"_buildHTML",
+			"/img/",
+			"FCA",
+			"cc0000",
+			"/",
+			"\\",
+			"img/",
+			"",
+			"cf",
+			"/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4477,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								79
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4866,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								513,
+								599
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"default_dir": "C:\\Users\\paocavan\\Desktop\\PROGETTI\\_GENERATOR_BONES\\generator-bones",
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 690,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								533,
+								533
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Better JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								780,
+								780
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"parser": "markdown",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"target": "browser"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11597,
+								11597
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_indent": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1083.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 593.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "generator-bones.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\paocavan\\Desktop\\PROGETTI\\FCA\\FCABANK\\SAVA_90\\CODICE\\fcabank-sava.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 361.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

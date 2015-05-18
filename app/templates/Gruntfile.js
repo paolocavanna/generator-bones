@@ -1,4 +1,3 @@
-// Generated on <%= (new Date).toISOString().split('T')[0] %> using <%= pkg.name %> <%= pkg.version %>
 'use strict';
 var LIVERELOAD_PORT = 35729;
 var lrSnippet = require('connect-livereload')({port: LIVERELOAD_PORT});
@@ -13,6 +12,7 @@ var mountFolder = function (connect, dir) {
 // 'test/spec/**/*.js'
 
 module.exports = function (grunt) {
+
 	// load all grunt tasks
 	require('matchdep').filterDev('grunt-*').forEach(grunt.loadNpmTasks);
 	// show elapsed time at the end
@@ -34,7 +34,7 @@ module.exports = function (grunt) {
 				}
 			},
 			compass: {
-				files: ['<%%= yeoman.src %>/css/{,*/}*.{scss,sass}'],
+				files: ['<%= yeoman.src %>/css/{,*/}*.{scss,sass}'],
 				tasks: ['compass:server']
 			},
 			livereload: {
@@ -42,10 +42,10 @@ module.exports = function (grunt) {
 					livereload: LIVERELOAD_PORT
 				},
 				files: [
-					'<%%= yeoman.src %>/templates/{,*/}*.hbs',
-					'{.tmp,<%%= yeoman.src %>}/css/{,*/}*.css',
-					'{.tmp,<%%= yeoman.src %>}/js/{,*/}*.js',
-					'<%%= yeoman.src %>/images/{,*/}*.{png,jpg,jpeg,gif,webp,svg}'
+					'<%= yeoman.src %>/templates/{,*/}*.hbs',
+					'{.tmp,<%= yeoman.src %>}/css/{,*/}*.css',
+					'{.tmp,<%= yeoman.src %>}/js/{,*/}*.js',
+					'<%= yeoman.src %>/images/{,*/}*.{png,jpg,jpeg,gif,webp,svg}'
 				],
 				tasks: ['assemble']
 			}
@@ -89,7 +89,7 @@ module.exports = function (grunt) {
 		},
 		open: {
 			server: {
-				path: 'http://localhost:<%%= connect.options.port %>'
+				path: 'http://localhost:<%= connect.options.port %>'
 			}
 		},
 		clean: {
@@ -98,8 +98,8 @@ module.exports = function (grunt) {
 					dot: true,
 					src: [
 						'.tmp',
-						'<%%= yeoman.build %>/*',
-						'!<%%= yeoman.build %>/.git*'
+						'<%= yeoman.build %>/*',
+						'!<%= yeoman.build %>/.git*'
 					]
 				}]
 			},
@@ -147,54 +147,43 @@ module.exports = function (grunt) {
 		/*concat: {
 			build: {}
 		},*/
-		rev: {
-			build: {
-				files: {
-					src: [
-						'<%%= yeoman.build %>/js/{,*/}*.js',
-						'<%%= yeoman.build %>/css/{,*/}*.css',
-						'<%%= yeoman.build %>/css/fonts/*'
-					]
-				}
-			}
-		},
 		assemble: {
 			options: {
 				flatten: true,
-				layout: '<%%= yeoman.src %>/templates/layouts/default.hbs',
-				partials: '<%%= yeoman.src %>/templates/partials/*.hbs'
+				layout: '<%= yeoman.src %>/templates/layouts/default.hbs',
+				partials: '<%= yeoman.src %>/templates/partials/*.hbs'
 			},
 			pages: {
 				files: {
-					'<%%= yeoman.src %>/': ['<%%= yeoman.src %>/templates/pages/*.hbs', '!<%%= yeoman.src %>/templates/pages/index.hbs']
+					'<%= yeoman.src %>/': ['<%= yeoman.src %>/templates/pages/*.hbs', '!<%= yeoman.src %>/templates/pages/index.hbs']
 				}
 			},
 			index: {
 				files: {
-					'<%%= yeoman.src %>/': ['<%%= yeoman.src %>/templates/pages/index.hbs']
+					'<%= yeoman.src %>/': ['<%= yeoman.src %>/templates/pages/index.hbs']
 				}
 			}
 		},
 		useminPrepare: {
 			options: {
-				dest: '<%%= yeoman.build %>'
+				dest: '<%= yeoman.build %>'
 			},
-			html: ['<%%= yeoman.src %>/*.html']
+			html: ['<%= yeoman.src %>/*.html']
 		},
 		usemin: {
 			options: {
-				dirs: ['<%%= yeoman.build %>']
+				dirs: ['<%= yeoman.build %>']
 			},
-			html: ['<%%= yeoman.build %>/{,*/}*.html'],
-			css: ['<%%= yeoman.build %>/css/{,*/}*.css']
+			html: ['<%= yeoman.build %>/{,*/}*.html'],
+			css: ['<%= yeoman.build %>/css/{,*/}*.css']
 		},
 		imagemin: {
 			build: {
 				files: [{
 					expand: true,
-					cwd: '<%%= yeoman.src %>/images',
+					cwd: '<%= yeoman.src %>/images',
 					src: '{,*/}*.{png,jpg,jpeg}',
-					dest: '<%%= yeoman.build %>/images'
+					dest: '<%= yeoman.build %>/images'
 				}]
 			}
 		},
@@ -207,33 +196,12 @@ module.exports = function (grunt) {
 			//
 			// build: {
 			//     files: {
-			//         '<%%= yeoman.build %>/css/styles.css': [
+			//         '<%= yeoman.build %>/css/styles.css': [
 			//             '.tmp/css/{,*/}*.css',
-			//             '<%%= yeoman.src %>/css/{,*/}*.css'
+			//             '<%= yeoman.src %>/css/{,*/}*.css'
 			//         ]
 			//     }
 			// }
-		},
-		htmlmin: {
-			build: {
-				options: {
-					// removeCommentsFromCDATA: true,
-					// https://github.com/yeoman/grunt-usemin/issues/44
-					// collapseWhitespace: true,
-					// collapseBooleanAttributes: true,
-					// removeAttributeQuotes: true,
-					// removeRedundantAttributes: true,
-					// useShortDoctype: true,
-					// removeEmptyAttributes: true,
-					// removeOptionalTags: true
-				},
-				files: [{
-					expand: true,
-					cwd: '<%%= yeoman.src %>',
-					src: '*.html',
-					dest: '<%%= yeoman.build %>'
-				}]
-			}
 		},
 		// Put files not handled in other tasks here
 		copy: {
@@ -241,8 +209,8 @@ module.exports = function (grunt) {
 				files: [{
 					expand: true,
 					dot: true,
-					cwd: '<%%= yeoman.src %>',
-					dest: '<%%= yeoman.build %>',
+					cwd: '<%= yeoman.src %>',
+					dest: '<%= yeoman.build %>',
 					src: [
 						'*.html',
 						'*.{ico,png,txt}',
@@ -260,8 +228,6 @@ module.exports = function (grunt) {
 			build: [
 				'sass',
 				'compass',
-				'htmlmin',
-				'cssmin',
 				'usemin'
 			]
 		}
@@ -283,26 +249,18 @@ module.exports = function (grunt) {
 		]);
 	});
 
-	grunt.registerTask('test', [
-		'clean:server',
-		'concurrent:test',
-		'connect:test'
-	]);
-
 	grunt.registerTask('build', [
 		'clean:build',
 		'assemble',
 		'useminPrepare',
 		'concurrent:build',
 		'concat',
-		'cssmin',
 		'uglify',
 		'copy:build',
 		'usemin'
 	]);
 
 	grunt.registerTask('default', [
-		'test',
 		'build'
 	]);
 };

@@ -1,5 +1,5 @@
-node_modules/
-temp/
-npm-debug.log
-generator-bones.sublime-project
-generator-bones.sublime-workspace
+node_modules
+build
+.tmp
+.sass-cache
+src/bower_components

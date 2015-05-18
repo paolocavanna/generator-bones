@@ -1,31 +1,32 @@
 {
-  "name": "generator-bones-bleached",
-  "version": "0.1.0",
-  "description": "Yeoman generator for scaffolding out a basic web project.",
-  "keywords": [
-    "yeoman-generator",
-    "bones-bleached",
-    "skin",
-    "theme",
-    "front-end"
-  ],
-  "homepage": "https://github.com/paolocavanna/generator-bones-bleached",
-  "bugs": "https://github.com/paolocavanna/generator-bones-bleached/issues",
-  "author": {
-    "name": "Paolo Cavanna",
-    "email": "paolo_cavanna@hotmail.com",
-    "url": "https://github.com/paolocavanna"
-  },
-  "main": "app/index.js",
-  "dependencies": {
-    "yeoman-generator": "~0.19.2"
-  },
-  "engines": {
-    "node": ">=0.8.0"
-  },
-  "licenses": [
-    {
-      "type": "MIT"
-    }
-  ]
+	"name": "generator-bones-bleached",
+	"version": "0.1.0",
+	"description": "Yeoman generator for scaffolding out a basic web project with tools like Assemble and Inuit.css.",
+	"keywords": [
+		"yeoman-generator",
+		"bones-bleached",
+		"skin",
+		"theme",
+		"front-end"
+	],
+	"homepage": "https://github.com/paolocavanna/generator-bones-bleached",
+	"bugs": "https://github.com/paolocavanna/generator-bones-bleached/issues",
+	"author": {
+		"name": "Paolo Cavanna",
+		"email": "paolo_cavanna@hotmail.com",
+		"url": "https://github.com/paolocavanna"
+	},
+	"main": "app/index.js",
+	"files": [
+		"app"
+	],
+	"dependencies": {
+		"yeoman-generator": "^0.19.2"
+	},
+	"engines": {
+		"node": ">=0.10.0"
+	},
+	"licenses": [{
+		"type": "MIT"
+	}]
 }

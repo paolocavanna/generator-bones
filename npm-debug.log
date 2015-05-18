@@ -1,0 +1,47 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'version',
+1 verbose cli   'major' ]
+2 info using npm@2.7.4
+3 info using node@v0.12.2
+4 verbose node symlink C:\Program Files\nodejs\\node.exe
+5 info git [ 'status', '--porcelain' ]
+6 verbose stack Error: Git working directory not clean.
+6 verbose stack M .editorconfig
+6 verbose stack M .gitignore
+6 verbose stack D .jshintrc
+6 verbose stack M app/index.js
+6 verbose stack M app/templates/Gruntfile.js
+6 verbose stack M app/templates/_package.json
+6 verbose stack M app/templates/default.hbs
+6 verbose stack M package.json
+6 verbose stack D test/test-creation.js
+6 verbose stack D test/test-load.js
+6 verbose stack     at C:\Program Files\nodejs\node_modules\npm\lib\version.js:138:37
+6 verbose stack     at C:\Program Files\nodejs\node_modules\npm\lib\utils\git.js:26:8
+6 verbose stack     at ChildProcess.exithandler (child_process.js:742:7)
+6 verbose stack     at ChildProcess.emit (events.js:110:17)
+6 verbose stack     at maybeClose (child_process.js:1015:16)
+6 verbose stack     at Socket.<anonymous> (child_process.js:1183:11)
+6 verbose stack     at Socket.emit (events.js:107:17)
+6 verbose stack     at Pipe.close (net.js:485:12)
+7 verbose cwd C:\Users\paocavan\Desktop\PROGETTI\_GENERATOR_BONES\generator-bones
+8 error Windows_NT 6.1.7601
+9 error argv "C:\\Program Files\\nodejs\\\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "version" "major"
+10 error node v0.12.2
+11 error npm  v2.7.4
+12 error Git working directory not clean.
+12 error M .editorconfig
+12 error M .gitignore
+12 error D .jshintrc
+12 error M app/index.js
+12 error M app/templates/Gruntfile.js
+12 error M app/templates/_package.json
+12 error M app/templates/default.hbs
+12 error M package.json
+12 error D test/test-creation.js
+12 error D test/test-load.js
+13 error If you need help, you may report this error at:
+13 error     <https://github.com/npm/npm/issues>
+14 verbose exit [ 1, true ]
