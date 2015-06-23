@@ -115,6 +115,7 @@ module.exports = generators.Base.extend({
 			this.copy('_trumps.icons.scss', 'src/css/ui/partials/_trumps.icons.scss');
 			this.copy('_trumps.list.scss', 'src/css/ui/partials/_trumps.list.scss');
 			this.copy('_trumps.tables.scss', 'src/css/ui/partials/_trumps.tables.scss');
+			this.copy('_trumps.tables.scss', 'src/css/ui/partials/_trumps.easing.scss');
 
 			this.copy('main.js', 'src/js/main.js');
 			this.copy('utils.js', 'src/js/utils.js');
